@@ -4,5 +4,5 @@
 ## Como executar
 * clone o repositórios a partit do comando `git clone https://github.com/robsongduarte/teste-sankhya.git && cd sankhya`
 * acesse o diretório `cd Backend` executar o comando `mvn spring-boot:run` após isso o backend estara no ar
-* acesse o diretório `cd FrontEnd` e execute o comando `yarn install`
-* após executar o comando yarn start e acessar o endereço http://localhost:3000/
+* acesse o diretório `cd Frontend` e execute o comando `yarn install --ignore-engines`
+* após executar o comando `yarn start` e acessar o endereço http://localhost:3000/
